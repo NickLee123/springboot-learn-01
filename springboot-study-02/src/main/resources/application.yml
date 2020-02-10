@@ -1,0 +1,5 @@
+person:
+  message:
+    name: "Nick"
+    age: 30
+    address: "中国"
